@@ -49,19 +49,11 @@ Há um código lá para exibir dinamicamente o ano atual (para que você não pr
 
 ## Tecnologias :rocket:
 
+**PHP*
+
 **HTML5** 
 
 **CSS3**
-- Normalise, Reset e Grid
-- Responsividade
-
-**JavaScript**
-- Jquery
-- Animate
-- Modernizir
-
-**Formulário com PHPMailer**
-
 
 ## Para contribuir 🤔
 
