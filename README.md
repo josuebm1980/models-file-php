@@ -26,7 +26,7 @@ Isso facilita e simplifica inclusão de arquivos em seu código.
 
 O arquivo de configuração detecta em qual página você está e define algumas variáveis que posteriormente exibirão esse conteúdo. Se você estiver usando um banco de dados, a string de conexão também aparecerá aqui.
 
-## >Tag Head Content :memo:
+## Tag Head Content :memo:
 
 Isso permite que cada página tenha seu próprio título exclusivo (conforme definido no arquivo de configuração).
 Na página “índice” (também definida por uma das variáveis no arquivo de configuração), eu mostro as tags META. Nas páginas não iniciais, não mostro isso.
