@@ -15,13 +15,12 @@
 
 ## Apresentação do Projeto :sparkles:
 
-Modelo de estrutura em PHP para modularizar diferentes partes de um site. Com isso, se tem um arquivo separado para a “navegação” para o “rodapé” e outras partes do site. Isso facilita e simplifica inclusão de arquivos em seu código
+Modelo de estrutura em PHP para modularizar diferentes partes de um site. Com isso, se tem um arquivo separado para a “navegação” para o “rodapé” e outras partes do site. 
 
 ---
 ## Por Que?
 
-Esse projeto foi criado para agregar ao meu portifólio pessoal, e também para 
-aperfeiçoar as minhas noções de WEB DESIGN.
+Isso facilita e simplifica inclusão de arquivos em seu código.
 
 ## Design :memo:
 
