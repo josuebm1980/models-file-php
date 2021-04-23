@@ -34,12 +34,15 @@ Na página “índice” (também definida por uma das variáveis no arquivo de 
 ## Include de arquivos design e conteúdos :computer:
 
 **parte superior do design**
+
 Apenas um cabeçalho geral. Freqüentemente, a navegação será incluída neste arquivo, no entanto, para fins de demonstração, separei-a em dois arquivos.
 
 **Navegação**
+
 No código PHP está incluindo dinamicamente uma classe adicional em cada link, de forma que dependendo da página em que você estiver, esse link será destacado (indicando que está “ativo”).
 
 **Rodapé**
+
 Há um código lá para exibir dinamicamente o ano atual (para que você não precise alterá-lo manualmente todos os anos!).
 
 
