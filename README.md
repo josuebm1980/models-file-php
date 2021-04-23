@@ -34,10 +34,8 @@ Na página “índice” (também definida por uma das variáveis no arquivo de 
 ## Include de arquivos design e conteúdos :computer:
 
  :computer: <a href="#"> Demo </a>
- 
- <div class="jumbotron">
-	<h1>Hello there!</h1>
-</div>
+
+
 
 ## Tecnologias :rocket:
 
