@@ -22,7 +22,7 @@ Modelo de estrutura em PHP para modularizar diferentes partes de um site. Com is
 
 Isso facilita e simplifica inclusão de arquivos em seu código.
 
-## Design :memo:
+## O arquivo de configuração:memo:
 
 O Desing desse projeto está no figma <a href="">Design</a>
 
