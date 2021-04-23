@@ -33,7 +33,7 @@ Na página “índice” (também definida por uma das variáveis no arquivo de 
 
 ## Include de arquivos design e conteúdos :computer:
 
-** parte superior do design**
+**parte superior do design**
 
 
 
