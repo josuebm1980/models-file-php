@@ -35,7 +35,9 @@ Na página “índice” (também definida por uma das variáveis no arquivo de 
 
  :computer: <a href="#"> Demo </a>
  
- <script src="https://gist.github.com/stevesohcot/387ef4a61f4b0ba7912324f57a74a474.js"></script>
+ <div class="jumbotron">
+	<h1>Hello there!</h1>
+</div>
 
 ## Tecnologias :rocket:
 
