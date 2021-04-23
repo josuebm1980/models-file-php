@@ -24,7 +24,7 @@ Isso facilita e simplifica inclusão de arquivos em seu código.
 
 ## O arquivo de configuração:memo:
 
-O Desing desse projeto está no figma <a href="">Design</a>
+O arquivo de configuração detecta em qual página você está e define algumas variáveis que posteriormente exibirão esse conteúdo. Se você estiver usando um banco de dados, a string de conexão também aparecerá aqui.
 
 ## Sobre :memo:
 
