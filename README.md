@@ -33,7 +33,7 @@ Na página “índice” (também definida por uma das variáveis no arquivo de 
 
 ## Include de arquivos design e conteúdos :computer:
 
-**parte superior do design**
+**Parte superior do design**
 
 Apenas um cabeçalho geral. Freqüentemente, a navegação será incluída neste arquivo, no entanto, para fins de demonstração, separei-a em dois arquivos.
 
@@ -49,7 +49,7 @@ Há um código lá para exibir dinamicamente o ano atual (para que você não pr
 
 ## Tecnologias :rocket:
 
-**PHP*
+**PHP**
 
 **HTML5** 
 
