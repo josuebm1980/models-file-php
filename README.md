@@ -7,7 +7,7 @@
   <a href="#por que?">Por Que?</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#design-memo">O arquivo de configuração</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#sobre-memo">Tag Head Content</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-rocket">Tecnologias</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-rocket">Include de arquivos design e conteúdos</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#para-contribuir-">Para Contribuir</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#licença-scroll">Licença</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 </p>
@@ -31,7 +31,7 @@ O arquivo de configuração detecta em qual página você está e define algumas
 Isso permite que cada página tenha seu próprio título exclusivo (conforme definido no arquivo de configuração).
 Na página “índice” (também definida por uma das variáveis no arquivo de configuração), eu mostro as tags META. Nas páginas não iniciais, não mostro isso.
 
-## Demonstração :computer:
+## Include de arquivos design e conteúdos :computer:
 
  :computer: <a href="#"> Demo </a>
 
